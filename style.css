@@ -46,6 +46,7 @@ margin-bottom: 1rem;
 .header{
     font-weight: 700;
     color: var(--slate-700);
+    margin-buttom: 10px;
 }
 .paragraph{
     font-weight: 400;
