@@ -46,15 +46,11 @@ margin-bottom: 1rem;
 .header{
     font-weight: 700;
     color: var(--slate-700);
-<<<<<<< HEAD
-=======
     margin-bottom: 1rem;
->>>>>>> 0e8edc87d3c1224ac936b9c48ba4ebb465a2f7ec
 }
 .paragraph{
     font-weight: 400;
     font-size: 15px;
     color: var(--slate-500);
-<<<<<<< HEAD
     padding: 1rem;
 }
