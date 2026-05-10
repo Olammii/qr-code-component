@@ -41,16 +41,15 @@ margin-bottom: 1rem;
 .text{
     text-align: center;
     font-family: "Outfit", sans-serif;
+    padding: 1rem;
     
 }
 .header{
     font-weight: 700;
     color: var(--slate-700);
-    margin-buttom: 10px;
 }
 .paragraph{
     font-weight: 400;
     font-size: 15px;
     color: var(--slate-500);
-    padding: 1rem;
 }
