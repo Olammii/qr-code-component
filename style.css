@@ -41,11 +41,12 @@ margin-bottom: 1rem;
 .text{
     text-align: center;
     font-family: "Outfit", sans-serif;
-    margin-bottom: 1rem;
+    
 }
 .header{
     font-weight: 700;
     color: var(--slate-700);
+    margin-bottom: 1rem;
 }
 .paragraph{
     font-weight: 400;
